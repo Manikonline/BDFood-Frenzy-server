@@ -1,0 +1,181 @@
+[
+    {
+      "id": 1,
+      "chefName": "John Smith",
+      "recipes":[
+        {
+            "name": "Biryani",
+            "ingredients": ["rice", "meat", "potatoes", "spices", "yogurt"],
+            "cooking_method": "1. Fry onions in oil until golden brown, remove from pan. 2. Fry meat in the same pan until brown, remove from pan. 3. Fry potatoes in the same pan until golden brown, remove from pan. 4. Mix rice, meat, potatoes, fried onions, and spices in a pot. 5. Cook until rice is fully cooked, serve hot with yogurt.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chingri Malai Curry",
+            "ingredients": ["prawns", "coconut milk", "spices", "onions", "garlic"],
+            "cooking_method": "1. Fry onions and garlic in oil until golden brown. 2. Add prawns and spices to the pan, cook for a few minutes. 3. Add coconut milk to the pan, simmer until prawns are fully cooked. 4. Serve hot with rice.",
+            "rating": 4.6
+          },
+          {
+            "name": "Morog Polao",
+            "ingredients": ["rice", "chicken", "yogurt", "spices", "onions"],
+            "cooking_method": "1. Marinate chicken with yogurt and spices for a few hours. 2. Fry onions in oil until golden brown, remove from pan. 3. Fry chicken in the same pan until brown, remove from pan. 4. Mix rice, fried onions, chicken, and spices in a pot. 5. Cook until rice is fully cooked, serve hot.",
+            "rating": 4.8
+          }
+        ],
+      "chefPicture": "https://example.com/john-smith.jpg",
+      "yearOfExperience": 10,
+      "numRecipes": 50,
+      "likes": 1000,
+      
+      "shortBio": "Award-winning chef with 10 years of experience creating unique and delicious recipes."
+      
+    },
+    {
+      "id": 2,
+      "chefName": "Jane Doe",
+      "recipes":[
+        {
+            "name": "Biryani",
+            "ingredients": ["rice", "meat", "potatoes", "spices", "yogurt"],
+            "cooking_method": "1. Fry onions in oil until golden brown, remove from pan. 2. Fry meat in the same pan until brown, remove from pan. 3. Fry potatoes in the same pan until golden brown, remove from pan. 4. Mix rice, meat, potatoes, fried onions, and spices in a pot. 5. Cook until rice is fully cooked, serve hot with yogurt.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chingri Malai Curry",
+            "ingredients": ["prawns", "coconut milk", "spices", "onions", "garlic"],
+            "cooking_method": "1. Fry onions and garlic in oil until golden brown. 2. Add prawns and spices to the pan, cook for a few minutes. 3. Add coconut milk to the pan, simmer until prawns are fully cooked. 4. Serve hot with rice.",
+            "rating": 4.6
+          },
+          {
+            "name": "Morog Polao",
+            "ingredients": ["rice", "chicken", "yogurt", "spices", "onions"],
+            "cooking_method": "1. Marinate chicken with yogurt and spices for a few hours. 2. Fry onions in oil until golden brown, remove from pan. 3. Fry chicken in the same pan until brown, remove from pan. 4. Mix rice, fried onions, chicken, and spices in a pot. 5. Cook until rice is fully cooked, serve hot.",
+            "rating": 4.8
+          }
+        ],
+      "chefPicture": "https://example.com/jane-doe.jpg",
+      "yearOfExperience": 15,
+      "numRecipes": 75,
+      "likes": 2000,
+      "shortBio": "Innovative chef with a passion for using locally-sourced ingredients."
+    },
+    {
+      "id": 3,
+      "chefName": "David Lee",
+      "recipes":[
+        {
+            "name": "Biryani",
+            "ingredients": ["rice", "meat", "potatoes", "spices", "yogurt"],
+            "cooking_method": "1. Fry onions in oil until golden brown, remove from pan. 2. Fry meat in the same pan until brown, remove from pan. 3. Fry potatoes in the same pan until golden brown, remove from pan. 4. Mix rice, meat, potatoes, fried onions, and spices in a pot. 5. Cook until rice is fully cooked, serve hot with yogurt.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chingri Malai Curry",
+            "ingredients": ["prawns", "coconut milk", "spices", "onions", "garlic"],
+            "cooking_method": "1. Fry onions and garlic in oil until golden brown. 2. Add prawns and spices to the pan, cook for a few minutes. 3. Add coconut milk to the pan, simmer until prawns are fully cooked. 4. Serve hot with rice.",
+            "rating": 4.6
+          },
+          {
+            "name": "Morog Polao",
+            "ingredients": ["rice", "chicken", "yogurt", "spices", "onions"],
+            "cooking_method": "1. Marinate chicken with yogurt and spices for a few hours. 2. Fry onions in oil until golden brown, remove from pan. 3. Fry chicken in the same pan until brown, remove from pan. 4. Mix rice, fried onions, chicken, and spices in a pot. 5. Cook until rice is fully cooked, serve hot.",
+            "rating": 4.8
+          }
+        ],
+      "chefPicture": "https://example.com/david-lee.jpg",
+      "yearOfExperience": 20,
+      "numRecipes": 100,
+      "likes": 3000,
+      "shortBio": "Master chef with a focus on traditional Asian flavors and techniques."
+    },
+    {
+      "id": 4,
+      "chefName": "Maria Hernandez",
+      "recipes":[
+        {
+            "name": "Biryani",
+            "ingredients": ["rice", "meat", "potatoes", "spices", "yogurt"],
+            "cooking_method": "1. Fry onions in oil until golden brown, remove from pan. 2. Fry meat in the same pan until brown, remove from pan. 3. Fry potatoes in the same pan until golden brown, remove from pan. 4. Mix rice, meat, potatoes, fried onions, and spices in a pot. 5. Cook until rice is fully cooked, serve hot with yogurt.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chingri Malai Curry",
+            "ingredients": ["prawns", "coconut milk", "spices", "onions", "garlic"],
+            "cooking_method": "1. Fry onions and garlic in oil until golden brown. 2. Add prawns and spices to the pan, cook for a few minutes. 3. Add coconut milk to the pan, simmer until prawns are fully cooked. 4. Serve hot with rice.",
+            "rating": 4.6
+          },
+          {
+            "name": "Morog Polao",
+            "ingredients": ["rice", "chicken", "yogurt", "spices", "onions"],
+            "cooking_method": "1. Marinate chicken with yogurt and spices for a few hours. 2. Fry onions in oil until golden brown, remove from pan. 3. Fry chicken in the same pan until brown, remove from pan. 4. Mix rice, fried onions, chicken, and spices in a pot. 5. Cook until rice is fully cooked, serve hot.",
+            "rating": 4.8
+          }
+        ],
+      "chefPicture": "https://example.com/maria-hernandez.jpg",
+      "yearOfExperience": 8,
+      "numRecipes": 40,
+      "likes": 1500,
+      "shortBio": "Passionate chef with a flair for Mediterranean cuisine."
+    },
+    {
+      "id": 5,
+      "chefName": "Michael Nguyen",
+      "recipes":[
+        {
+            "name": "Biryani",
+            "ingredients": ["rice", "meat", "potatoes", "spices", "yogurt"],
+            "cooking_method": "1. Fry onions in oil until golden brown, remove from pan. 2. Fry meat in the same pan until brown, remove from pan. 3. Fry potatoes in the same pan until golden brown, remove from pan. 4. Mix rice, meat, potatoes, fried onions, and spices in a pot. 5. Cook until rice is fully cooked, serve hot with yogurt.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chingri Malai Curry",
+            "ingredients": ["prawns", "coconut milk", "spices", "onions", "garlic"],
+            "cooking_method": "1. Fry onions and garlic in oil until golden brown. 2. Add prawns and spices to the pan, cook for a few minutes. 3. Add coconut milk to the pan, simmer until prawns are fully cooked. 4. Serve hot with rice.",
+            "rating": 4.6
+          },
+          {
+            "name": "Morog Polao",
+            "ingredients": ["rice", "chicken", "yogurt", "spices", "onions"],
+            "cooking_method": "1. Marinate chicken with yogurt and spices for a few hours. 2. Fry onions in oil until golden brown, remove from pan. 3. Fry chicken in the same pan until brown, remove from pan. 4. Mix rice, fried onions, chicken, and spices in a pot. 5. Cook until rice is fully cooked, serve hot.",
+            "rating": 4.8
+          }
+        ],
+      "chefPicture": "https://example.com/michael-nguyen.jpg",
+      "yearOfExperience": 12,
+      "numRecipes": 60,
+      "likes": 2500,
+      "shortBio": "Vietnamese-American chef blending traditional Vietnamese dishes with modern flavors."
+    },
+    {
+      "id": 6,
+      "chefName": "Sophie Chan",
+      "recipes":[
+        {
+            "name": "Biryani",
+            "ingredients": ["rice", "meat", "potatoes", "spices", "yogurt"],
+            "cooking_method": "1. Fry onions in oil until golden brown, remove from pan. 2. Fry meat in the same pan until brown, remove from pan. 3. Fry potatoes in the same pan until golden brown, remove from pan. 4. Mix rice, meat, potatoes, fried onions, and spices in a pot. 5. Cook until rice is fully cooked, serve hot with yogurt.",
+            "rating": 4.8
+          },
+          {
+            "name": "Chingri Malai Curry",
+            "ingredients": ["prawns", "coconut milk", "spices", "onions", "garlic"],
+            "cooking_method": "1. Fry onions and garlic in oil until golden brown. 2. Add prawns and spices to the pan, cook for a few minutes. 3. Add coconut milk to the pan, simmer until prawns are fully cooked. 4. Serve hot with rice.",
+            "rating": 4.6
+          },
+          {
+            "name": "Morog Polao",
+            "ingredients": ["rice", "chicken", "yogurt", "spices", "onions"],
+            "cooking_method": "1. Marinate chicken with yogurt and spices for a few hours. 2. Fry onions in oil until golden brown, remove from pan. 3. Fry chicken in the same pan until brown, remove from pan. 4. Mix rice, fried onions, chicken, and spices in a pot. 5. Cook until rice is fully cooked, serve hot.",
+            "rating": 4.8
+          }
+        ],
+      "chefPicture": "https://example.com/sophie-chan.jpg",
+      "yearOfExperience": 5,
+      "numRecipes": 30,
+      "likes": 800,
+      "shortBio": "Up-and-coming chef with a passion for plant-based cooking."
+    }
+  
+  ]
+  
+  
