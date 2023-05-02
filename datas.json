@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chefName": "Ahmed Hossain",
+      "chefName": "Saif Hasan",
       "recipes":[
         {
             "name": "Biryani",
@@ -25,7 +25,7 @@
             "rating": 4.8
           }
         ],
-      "chefPicture": "https://example.com/john-smith.jpg",
+      "chefPicture": "https://i.ibb.co/9vqBhxS/Saif-Hasan.jpg",
       "yearOfExperience": 10,
       "numRecipes": 50,
       "likes": 1000,
@@ -59,7 +59,7 @@
             "rating": 4.8
           }
         ],
-      "chefPicture": "https://example.com/jane-doe.jpg",
+      "chefPicture": "https://i.ibb.co/JsfMvzZ/Tonmoy-Khan.jpg",
       "yearOfExperience": 15,
       "numRecipes": 75,
       "likes": 2000,
@@ -91,7 +91,7 @@
             "rating": 4.8
           }
         ],
-      "chefPicture": "https://example.com/david-lee.jpg",
+      "chefPicture": "https://i.ibb.co/TWjv5vK/Feroze-Ahmed.jpg",
       "yearOfExperience": 20,
       "numRecipes": 100,
       "likes": 3000,
@@ -123,7 +123,7 @@
             "rating": 4.8
           }
         ],
-      "chefPicture": "https://example.com/maria-hernandez.jpg",
+      "chefPicture": "https://i.ibb.co/F4W94Gg/Isfaq-Hasan.jpg",
       "yearOfExperience": 8,
       "numRecipes": 40,
       "likes": 1500,
@@ -155,7 +155,7 @@
             "rating": 4.8
           }
         ],
-      "chefPicture": "https://example.com/michael-nguyen.jpg",
+      "chefPicture": "https://i.ibb.co/ySrHKzb/Tanvir-Islam.jpg",
       "yearOfExperience": 12,
       "numRecipes": 60,
       "likes": 2500,
@@ -187,7 +187,7 @@
             "rating": 4.8
           }
         ],
-      "chefPicture": "https://example.com/sophie-chan.jpg",
+      "chefPicture": "https://i.ibb.co/84b3Zw6/Hasan-Khan-Alex.jpg",
       "yearOfExperience": 5,
       "numRecipes": 30,
       "likes": 800,
