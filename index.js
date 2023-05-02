@@ -12,6 +12,12 @@ app.get('/', (req, res)=>{
 app.get('/datas',(req, res)=>{
     res.send(datas)
 })
+app.get('/datas/:id', (req, res)=>{
+    const id=req.params.id;
+    console.log('i need for id:',id)
+    const data=datas.find(d=> d.id==id)||{};
+    res.send(data);
+})
 
 app.listen(port, ()=>{
     console.log(`Food Frenzy Servera is running on port:${port}`)
