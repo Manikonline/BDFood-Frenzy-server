@@ -1,6 +1,8 @@
 const express= require('express');
+const cors=require("cors");
 const  datas= require('./datas.json')
 const app = express();
+app.use(cors());
 const port = 5000;
 
 
