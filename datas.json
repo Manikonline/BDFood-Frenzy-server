@@ -2,7 +2,7 @@
     {
       "id": 1,
       "chefName": "Saif Hasan",
-      "recipes":[
+      "chefRecipes":[
         {
             "name": "Biryani",
             "Picture": "https://i.ibb.co/6NRQQWd/biriyani.jpg",
@@ -36,7 +36,7 @@
     {
       "id": 2,
       "chefName": "Tommy Khan",
-      "recipes":[
+      "chefRecipes":[
         {
             "name": "Bhuna Khichuri",
             "Picture": "https://i.ibb.co/bFJn7y5/bhuna-khichuri.png",
@@ -68,7 +68,7 @@
     {
       "id": 3,
       "chefName": "Feroze Ahmed",
-      "recipes":[
+      "chefRecipes":[
         {
             "name": "Naan-with-Grilled",
             "Picture": "https://i.ibb.co/4RN8Hj8/Naan-with-Grilled.jpg",
@@ -100,7 +100,7 @@
     {
       "id": 4,
       "chefName": "Isfaq Hasan",
-      "recipes":[
+      "chefRecipes":[
         {
             "name": "Biryani",
             "Picture": "https://i.ibb.co/6NRQQWd/biriyani.jpg",
@@ -132,7 +132,7 @@
     {
       "id": 5,
       "chefName": "Tanvir Islam",
-      "recipes":[
+      "chefRecipes":[
         {
             "name": "paratha",
             "Picture": "https://i.ibb.co/WxCCVLn/paratha.jpg",
@@ -164,7 +164,7 @@
     {
       "id": 6,
       "chefName": "Hasan Khan Alex",
-      "recipes":[
+      "chefRecipes":[
         {
             "name": "Biryani",
             "Picture": "https://i.ibb.co/6NRQQWd/biriyani.jpg",
