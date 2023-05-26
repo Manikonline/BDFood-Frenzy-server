@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 const port =process.env.PORT || 5000;
 
-
+// get
 app.get('/', (req, res)=>{
     res.send('Food Frenzy is running...');
 
